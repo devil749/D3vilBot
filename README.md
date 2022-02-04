@@ -55,7 +55,7 @@
 - 𝙾𝚙𝚎𝚗 𝚁𝚎𝚙𝚕 𝙻𝚒𝚗𝚔.
 - 𝚈𝚘𝚞𝚛𝚢 D3𝚟𝚒𝚕𝙱𝚘𝚝 𝚂𝚎𝚜𝚜𝚒𝚘𝚗 𝚆𝚒𝚕𝚕 𝚋𝚎 𝚜𝚊𝚟𝚎𝚍 𝚒𝚗 𝚢𝚘𝚞𝚛 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚂𝚊𝚟𝚎𝚍 𝙼𝚎𝚜𝚜𝚊𝚐𝚎.
 
-- [![REPL](https://repl.it/badge/github/D3KRISH/D3vilUserbot)](https://replit.com/@D3krish/D3VILBOTSTRINGSESSION#main.py)
+- [![REPL](https://repl.it/badge/github/D3KRISH/D3vilUserbot)](https://replit.com/devil749/D3VILBOTSTRINGSESSION#main.py)
 
 `bash start.sh`
 
@@ -74,7 +74,7 @@
 
 - 𝙲𝚕𝚘𝚗𝚎 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘. 
 
-`git clone https://github.com/D3KRISH/D3vilUserbot.git`
+`git clone https://github.com/devil749/D3vilUserbot.git`
 - 𝙾𝚙𝚎𝚗 𝙲𝚕𝚘𝚗𝚎𝚍 𝙵𝚘𝚕𝚍𝚎𝚛.
 
 `cd D3vilUserbot`
